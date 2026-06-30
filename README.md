@@ -25,7 +25,7 @@ To predict students' Final exam scores using their Quiz 1 scores.
 ## 🛠️ How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/Yektaa84/linear-regression-final-score-prediction/tree/main
+git clone (https://github.com/Yektaa84/linear-regression-final-score-prediction)
 
 # Install packages
 pip install pandas scikit-learn matplotlib numpy
